@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleParantheseInExpression", "HandleParantheseInExpression.csproj", "{0D01512E-E9BC-4814-BEE9-C7906131A49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D01512E-E9BC-4814-BEE9-C7906131A49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D01512E-E9BC-4814-BEE9-C7906131A49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D01512E-E9BC-4814-BEE9-C7906131A49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D01512E-E9BC-4814-BEE9-C7906131A49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24EF3CA-99E3-4B98-B97B-48CCD55EC3AB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\bin\Debug\netcoreapp3.1\HandleParantheseInExpression.exe
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\bin\Debug\netcoreapp3.1\HandleParantheseInExpression.deps.json
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\bin\Debug\netcoreapp3.1\HandleParantheseInExpression.runtimeconfig.json
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\bin\Debug\netcoreapp3.1\HandleParantheseInExpression.runtimeconfig.dev.json
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\bin\Debug\netcoreapp3.1\HandleParantheseInExpression.dll
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\bin\Debug\netcoreapp3.1\HandleParantheseInExpression.pdb
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\obj\Debug\netcoreapp3.1\HandleParantheseInExpression.csprojAssemblyReference.cache
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\obj\Debug\netcoreapp3.1\HandleParantheseInExpression.AssemblyInfoInputs.cache
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\obj\Debug\netcoreapp3.1\HandleParantheseInExpression.AssemblyInfo.cs
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\obj\Debug\netcoreapp3.1\HandleParantheseInExpression.dll
+C:\Apttus\My Git Repo\Handle Paranthese In Expression\HandleParantheseInExpression\obj\Debug\netcoreapp3.1\HandleParantheseInExpression.pdb
